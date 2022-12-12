@@ -4,7 +4,9 @@
 
 Для работы потребуется 2 библиотеки: SpeechRecognition и PyAudio.
 
-***<h3>SpeechRecognition = pip install SpeechRecognition; PyAudio = pip install PyAudio</h3>***
+***<h3>pip install SpeechRecognition</h3>***
+
+***<h3>pip install PyAudio</h3>***
 
 PyAudio служит для работы с микрофоном.
 SpeechRecognition преобразует речь в текст по средосвам интегарции с Google Speech Recognition.
